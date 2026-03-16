@@ -51,7 +51,7 @@ campaign_dashboard/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/campaign-analytics-dashboard.git
+git clone https://github.com/kanikajadhav/bank-campaign-analytics-dashboard.git
 cd campaign-analytics-dashboard
 ```
 
