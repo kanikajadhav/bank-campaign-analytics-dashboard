@@ -8,8 +8,8 @@ An interactive data analytics dashboard built to analyse the performance of a ba
 
 ## 🚀 Live Demo
 
-> _Add your Streamlit Cloud link here after deployment_
-
+https://bank-campaign-analytics-dashboard-6uvkfdjk8s2yr6appp9sqrr.streamlit.app/
+ 
 ---
 
 ## 📌 Key Features
@@ -101,5 +101,5 @@ The app will automatically download the UCI Bank Marketing dataset on first run.
 
 ## 👤 Author
 
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+**Kanika Jadhav**  
+
